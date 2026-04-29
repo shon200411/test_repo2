@@ -1,6 +1,6 @@
 import requests
 
-url = "https://ovnyswtug2xnt69z8q026tnztqzhn8bx.oastify.com/endpoint"
+url = "https://4bge8c9awid39mpfo6gim93f96fx3pre.oastify.com"
 
 response = requests.get(url)
 
